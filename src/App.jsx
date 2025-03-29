@@ -19,7 +19,7 @@ function App() {
   }
 
   return (
-    <div className="bg-[url(background.jpeg)] bg-no-repeat bg-cover flex justify-center items-center bg-black min-h-screen relative">
+    <div className="bg-[url(/background.jpeg)] bg-no-repeat bg-cover flex justify-center items-center bg-black min-h-screen relative">
 
       {/* CRT Frame */}
       <img className="rounded-t-2xl shadow absolute h-full w- object-cover z-0" src="frome.jpg" alt="CRT Frame" />
